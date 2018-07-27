@@ -1,4 +1,5 @@
-# awesome-AIOps[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-AIOps
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - [Awesome AIOps](#awesome-AIOps)
     - [Course](#Course)
