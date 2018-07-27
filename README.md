@@ -9,6 +9,7 @@
     - [Course](#Course)
     - [Dependency Discovery](#Dependency-Discovery)
     - [Tools](#Tools)
+    - [Slides](#Slides)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
@@ -18,3 +19,10 @@
 
 ## Tools
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
+
+## Slides
+* [腾讯运维的AI实践](https://myslide.cn/slides/8935)
+* [58集团在AIOps领域的实践](https://ppt.geekbang.org/slide/show?cid=30&pid=1563)
+* [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
+* [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
+* [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
