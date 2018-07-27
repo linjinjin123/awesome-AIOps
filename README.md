@@ -2,7 +2,7 @@
 
 - [Awesome AIOps](#awesome-AIOps)
     - [Course](#Course)
-    - [Dependency Discovery](#Dependency Discovery)
+    - [Dependency Discovery](#DependencyDiscovery)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
