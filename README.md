@@ -1,2 +1,7 @@
 # awesome-AIOps
-AIOps学习资料汇总
+
+- [Awesome AIOps](#awesome-AIOps)
+    - [Course](#Course)
+
+## Course
+* [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
