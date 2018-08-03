@@ -10,6 +10,7 @@
     - [Dependency Discovery](#dependency-discovery)
     - [Tools](#tools)
     - [Slides](#slides)
+    - [Paper](#paper)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
@@ -26,3 +27,7 @@
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
+
+
+## Paper
+* [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
