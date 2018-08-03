@@ -6,7 +6,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/linjinjin123/awesome-AIOps.svg?style=flat&label=Watch)](https://github.com/linjinjin123/awesome-AIOps/watchers)
 
 - [Awesome AIOps](#awesome-AIOps)
-    - [White Paper](#whitepaper)
+    - [White Paper](#white-paper)
     - [Course](#course)
     - [Dependency Discovery](#dependency-discovery)
     - [Tools](#tools)
