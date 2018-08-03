@@ -6,11 +6,15 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/linjinjin123/awesome-AIOps.svg?style=flat&label=Watch)](https://github.com/linjinjin123/awesome-AIOps/watchers)
 
 - [Awesome AIOps](#awesome-AIOps)
+    - [White Paper](#whitepaper)
     - [Course](#course)
     - [Dependency Discovery](#dependency-discovery)
     - [Tools](#tools)
     - [Slides](#slides)
     - [Paper](#paper)
+    
+## White Paper
+* [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
