@@ -6,12 +6,16 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/linjinjin123/awesome-AIOps.svg?style=flat&label=Watch)](https://github.com/linjinjin123/awesome-AIOps/watchers)
 
 - [Awesome AIOps](#awesome-AIOps)
+    - [White Paper](#white-paper)
     - [Course](#course)
     - [Dependency Discovery](#dependency-discovery)
     - [Tools](#tools)
     - [Slides](#slides)
     - [Paper](#paper)
     - [Dataset](#dataset)
+    
+## White Paper
+* [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
@@ -21,10 +25,11 @@
 
 ## Tools
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
+* [python-fp-growth，挖掘频繁项集](https://github.com/enaeseth/python-fp-growth)
 
 ## Slides
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
-* [58集团在AIOps领域的实践](https://ppt.geekbang.org/slide/show?cid=30&pid=1563)
+* [AI 时代下腾讯的海量业务智能监控实践](https://cloud.tencent.com/developer/article/1039354)
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
