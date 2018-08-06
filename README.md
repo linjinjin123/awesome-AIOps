@@ -11,6 +11,7 @@
     - [Tools](#tools)
     - [Slides](#slides)
     - [Paper](#paper)
+    - [Dataset](#dataset)
 
 ## Course
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
@@ -32,3 +33,8 @@
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
+
+## Dataset
+* [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
+* [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
+* [Google/cluster-data](https://github.com/google/cluster-data)
