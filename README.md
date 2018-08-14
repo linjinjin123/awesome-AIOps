@@ -26,6 +26,7 @@
 ## Tools
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
 * [python-fp-growth，挖掘频繁项集](https://github.com/enaeseth/python-fp-growth)
+* [Anomaly Detection with Twitter in R](https://github.com/twitter/AnomalyDetection)
 
 ## Slides
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
