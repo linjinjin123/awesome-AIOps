@@ -46,3 +46,4 @@
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
 * [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
 * [Google/cluster-data](https://github.com/google/cluster-data)
+* [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
