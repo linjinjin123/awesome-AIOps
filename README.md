@@ -40,6 +40,7 @@
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
 * [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.ai/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
+    * 中文版：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
