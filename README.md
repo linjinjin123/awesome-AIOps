@@ -13,6 +13,7 @@
     - [Slides](#slides)
     - [Paper](#paper)
     - [Dataset](#dataset)
+    - [Useful Github Repo](#useful-github-repo)
     
 ## White Paper
 * [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
@@ -28,6 +29,7 @@
 * [python-fp-growth，挖掘频繁项集](https://github.com/enaeseth/python-fp-growth)
 * [Anomaly Detection with Twitter in R](https://github.com/twitter/AnomalyDetection)
 * [百度开源时间序列打标工具：Curve](https://github.com/baidu/Curve)
+* [Microsoft/TagAnomaly](https://github.com/Microsoft/TagAnomaly)
 
 ## Slides
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
@@ -48,3 +50,6 @@
 * [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
 * [Google/cluster-data](https://github.com/google/cluster-data)
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
+
+## Useful Github Repo
+* [Anomaly Detection Examples](https://github.com/shubhomoydas/ad_examples)
