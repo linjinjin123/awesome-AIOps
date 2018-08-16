@@ -50,6 +50,7 @@
 * [Azure/AzurePublicDataset](https://github.com/Azure/AzurePublicDataset)
 * [Google/cluster-data](https://github.com/google/cluster-data)
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
+* [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 
 ## Useful Github Repo
 * [Anomaly Detection Examples](https://github.com/shubhomoydas/ad_examples)
