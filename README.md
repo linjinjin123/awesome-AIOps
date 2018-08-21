@@ -30,6 +30,7 @@
 * [Anomaly Detection with Twitter in R](https://github.com/twitter/AnomalyDetection)
 * [百度开源时间序列打标工具：Curve](https://github.com/baidu/Curve)
 * [Microsoft开源时间序列打标工具: TagAnomaly](https://github.com/Microsoft/TagAnomaly)
+* [Donut, Donut is an anomaly detection algorithm for seasonal KPIs.](https://github.com/haowen-xu/donut)
 
 ## Slides
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
