@@ -31,8 +31,8 @@
 * [百度开源时间序列打标工具：Curve](https://github.com/baidu/Curve)
 * [Microsoft开源时间序列打标工具: TagAnomaly](https://github.com/Microsoft/TagAnomaly)
 * [Donut, Donut is an anomaly detection algorithm for seasonal KPIs.](https://github.com/haowen-xu/donut)
-    [Slides](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
-    [Paper](https://arxiv.org/pdf/1802.03903.pdf)
+    * [Slides](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
+    * [Paper](https://arxiv.org/pdf/1802.03903.pdf)
 
 ## Slides
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
