@@ -9,7 +9,7 @@
     - [White Paper](#white-paper)
     - [Course and Slides](#course-and-slides)
     - [Industry Practice](#industry-practice)
-    - [Tools](#tools)
+    - [Tools and Algorithms](#tools-and-algorithms)
     - [Paper](#paper)
     - [Dataset](#dataset)
     - [Useful Github Repo](#useful-github-repo)
@@ -30,12 +30,13 @@
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
 
-## Tools
+## Tools and Algorithms
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
 * [python-fp-growth，挖掘频繁项集](https://github.com/enaeseth/python-fp-growth)
 * [Anomaly Detection with Twitter in R](https://github.com/twitter/AnomalyDetection)
 * [百度开源时间序列打标工具：Curve](https://github.com/baidu/Curve)
 * [Microsoft开源时间序列打标工具: TagAnomaly](https://github.com/Microsoft/TagAnomaly)
+* [Anomaly Detection Examples](https://github.com/shubhomoydas/ad_examples)
 
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
@@ -52,6 +53,3 @@
 * [Google/cluster-data](https://github.com/google/cluster-data)
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
-
-## Useful Github Repo
-* [Anomaly Detection Examples](https://github.com/shubhomoydas/ad_examples)
