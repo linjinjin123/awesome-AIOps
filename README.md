@@ -53,3 +53,4 @@
 * [Google/cluster-data](https://github.com/google/cluster-data)
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
+* [港中文loghub数据集](https://github.com/logpai/loghub)
