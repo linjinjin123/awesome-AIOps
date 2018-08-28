@@ -7,7 +7,7 @@
 
 - [Awesome AIOps](#awesome-AIOps)
     - [White Paper](#white-paper)
-    - [Course](#course)
+    - [Course and Slides](#course-and-slides)
     - [Industry Practice](#industry-practice)
     - [Tools](#tools)
     - [Paper](#paper)
@@ -17,8 +17,9 @@
 ## White Paper
 * [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
 
-## Course
+## Course and Slides
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
+* [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
 
 ## Industry Practice
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
@@ -28,7 +29,6 @@
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
-* [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
 
 ## Tools
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
