@@ -21,7 +21,7 @@
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
 
 ## Industry Practice
-* [阿里全链路监控方案])(https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
+* [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
 * [A Comparison of Mapping Approaches for Distributed Cloud Applications](https://blog.netsil.com/a-comparison-of-mapping-approaches-for-distributed-cloud-applications-52be1f61d293).
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
 * [AI 时代下腾讯的海量业务智能监控实践](https://cloud.tencent.com/developer/article/1039354)
