@@ -43,7 +43,7 @@
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
 * [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.ai/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
-* [Donut, Donut is an anomaly detection algorithm for seasonal KPIs.](https://github.com/haowen-xu/donut)
+* [基于VAE变分自编码器的周期性KPI无监督异常检测：Donut](https://github.com/haowen-xu/donut)
     * [Slide](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
     * [Paper](https://arxiv.org/pdf/1802.03903.pdf)
 
