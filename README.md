@@ -46,7 +46,6 @@
 * [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903.pdf)
     * [Slide](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
     * [Github](https://github.com/haowen-xu/donut)
-    * 基于VAE变分自编码器的周期性KPI无监督异常检测
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
 
 ## Dataset
