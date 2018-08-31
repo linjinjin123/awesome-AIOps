@@ -47,6 +47,7 @@
     * [Slide](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
     * [Github](https://github.com/haowen-xu/donut)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
+* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](http://netman.ai/~peidan/ANM2018/8.DependencyDiscovery/LectureCoverage/2018IWQOS_ROCKA.pdf)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
