@@ -43,9 +43,7 @@
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
 * [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.ai/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
-* [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903.pdf)
-    * [Slide](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)
-    * [Github](https://github.com/haowen-xu/donut)
+* [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903.pdf)[[Slide]](http://netman.ai/wp-content/uploads/2018/05/www2018-slide.pdf)[[Github]](https://github.com/haowen-xu/donut)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
 * [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](http://netman.ai/~peidan/ANM2018/8.DependencyDiscovery/LectureCoverage/2018IWQOS_ROCKA.pdf)
 
