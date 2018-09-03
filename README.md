@@ -57,6 +57,6 @@
 * [港中文loghub数据集](https://github.com/logpai/loghub)
 
 ## Useful WeChat Official Accounts
-* AIOps智能运维（百度的）
-* 智能运维前沿（清华裴丹团队的）
 * 腾讯织云（腾讯的）
+* 智能运维前沿（清华裴丹团队的）
+* AIOps智能运维（百度的）
