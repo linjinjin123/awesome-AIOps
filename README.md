@@ -12,7 +12,7 @@
     - [Tools and Algorithms](#tools-and-algorithms)
     - [Paper](#paper)
     - [Dataset](#dataset)
-    - [Useful Github Repo](#useful-github-repo)
+    - [Useful WeChat Official Accounts](#useful-wechat-official-accounts)
     
 ## White Paper
 * [《企业级 AIOps 实施建议》白皮书](https://www.rizhiyi.com/assets/docs/AIOps.pdf)
@@ -55,3 +55,8 @@
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [港中文loghub数据集](https://github.com/logpai/loghub)
+
+## Useful WeChat Official Accounts
+* AIOps智能运维（百度的）
+* 智能运维前沿（清华裴丹团队的）
+* 腾讯织云（腾讯的）
