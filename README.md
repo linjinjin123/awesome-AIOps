@@ -31,6 +31,7 @@
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
 * [异常检测：百度是这样做的](https://mp.weixin.qq.com/s/AXhjawsINKl6cLDV1yf6fw)
 * [Yahoo大规模时列数据异常检测技术及其高性能可伸缩架构](http://www.infoq.com/cn/articles/automated-time-series-anomaly-detection?utm_source=articles_about_bigdata&utm_medium=link&utm_campaign=bigdata)
+* [Next Generation of DevOps AIOps in Practice @Baidu](https://www.usenix.org/sites/default/files/conference/protected-files/srecon17asia_slides_qu.pdf)
 
 ## Tools and Algorithms
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
