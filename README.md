@@ -45,6 +45,7 @@
 * [Anomaly Detection Examples](https://github.com/shubhomoydas/ad_examples)
 * [facebook/prophet, Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://facebook.github.io/prophet)
 * [google/CausalImpact, An R package for causal inference in time series](https://github.com/google/CausalImpact)
+* [时间序列分析之ARIMA](https://blog.csdn.net/u010414589/article/details/49622625)
 
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
