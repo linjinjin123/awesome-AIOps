@@ -36,6 +36,7 @@
 * [LinkedIn: exponential smoothing](https://github.com/linkedin/luminol)
 * [Uber: multivariate non-linear model](https://eng.uber.com/argos/)
 * [智能运维|AIOps中的四大金刚都是谁？](https://mp.weixin.qq.com/s/NKhQkS59WIGgbIfFKcxonA)
+* [腾讯织云Metis智能运维学件平台开源代码](https://github.com/Tencent/Metis)
 
 ## Tools and Algorithms
 * [Tools to Monitor and Visualize Microservices Architecture](https://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14)
