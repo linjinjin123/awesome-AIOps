@@ -23,18 +23,18 @@
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
 
 ## Industry Practice
-* -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [腾讯运维的AI实践](https://myslide.cn/slides/8935)
 * [AI 时代下腾讯的海量业务智能监控实践](https://cloud.tencent.com/developer/article/1039354)
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [腾讯织云Metis智能运维学件平台开源代码](https://github.com/Tencent/Metis)
-* -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
-* -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [异常检测：百度是这样做的](https://mp.weixin.qq.com/s/AXhjawsINKl6cLDV1yf6fw)
 * [Next Generation of DevOps AIOps in Practice @Baidu](https://www.usenix.org/sites/default/files/conference/protected-files/srecon17asia_slides_qu.pdf) [[video]](https://www.youtube.com/watch?v=5YfqevEtIFw)
-* -------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
 * [Yahoo大规模时列数据异常检测技术及其高性能可伸缩架构](http://www.infoq.com/cn/articles/automated-time-series-anomaly-detection?utm_source=articles_about_bigdata&utm_medium=link&utm_campaign=bigdata)
 * [Netflix: Robust PCA](https://medium.com/netflix-techblog/rad-outlier-detection-on-big-data-d6b0494371cc)
