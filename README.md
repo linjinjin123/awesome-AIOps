@@ -57,6 +57,7 @@
 * [google/CausalImpact, An R package for causal inference in time series](https://github.com/google/CausalImpact)
 * [时间序列分析之ARIMA](https://blog.csdn.net/u010414589/article/details/49622625)
 * [时间序列特征提取库tsfresh](https://github.com/blue-yonder/tsfresh)
+* [Awesome Time Series Analysis and Data Mining](https://github.com/youngdou/awesome-time-series-analysis)
 
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
