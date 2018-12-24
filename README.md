@@ -30,6 +30,7 @@
 * [腾讯织云Metis智能运维学件平台开源代码](https://github.com/Tencent/Metis)
 -------------------------------------------------------------------------------
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
+* [阿里开源4000台服务器真实数据集](https://github.com/alibaba/clusterdata/tree/v2018)
 -------------------------------------------------------------------------------
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
 * [异常检测：百度是这样做的](https://mp.weixin.qq.com/s/AXhjawsINKl6cLDV1yf6fw)
