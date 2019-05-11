@@ -82,4 +82,3 @@
 * 智能运维前沿（清华裴丹团队的）
 * AIOps智能运维（百度的）
 * 华为产品可服务能力（华为的）
-* 知乎专栏：[智能运维(AIOps)](https://zhuanlan.zhihu.com/awesome-AIOps)
