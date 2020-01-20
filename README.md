@@ -64,10 +64,10 @@
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
-* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.ai/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
+* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.aiops.org/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
-* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](http://netman.ai/~peidan/ANM2018/8.DependencyDiscovery/LectureCoverage/2018IWQOS_ROCKA.pdf)
+* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
