@@ -69,6 +69,7 @@
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
 * [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
 * [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.org/wp-content/uploads/2019/08/camera_ready.pdf)
+* [Papers from Tsinghua NetMan Lab](https://netman.aiops.org/publications/)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
