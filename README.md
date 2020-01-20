@@ -76,6 +76,7 @@
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [港中文loghub数据集](https://github.com/logpai/loghub)
+* [2018 AIOPS挑战赛预赛测试集](http://iops.ai/dataset_detail/?id=7) [2018 AIOPS挑战赛预赛训练集](http://iops.ai/dataset_detail/?id=6)
 
 ## Useful WeChat Official Accounts
 * 腾讯织云（腾讯的）
