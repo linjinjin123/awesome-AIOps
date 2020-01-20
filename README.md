@@ -68,6 +68,7 @@
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
 * [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
+* [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.org/wp-content/uploads/2019/08/camera_ready.pdf)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
