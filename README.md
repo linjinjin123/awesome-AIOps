@@ -68,6 +68,8 @@
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
 * [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
+* [KPI-TSAD: A Time-Series Anomaly Detector for KPI Monitoring in Cloud Applications](https://www.mdpi.com/2073-8994/11/11/1350)
+* [Anomaly Detection Based on Mining Six Local Data Features and BP Neural Network ](https://www.mdpi.com/2073-8994/11/4/571)
 * [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.org/wp-content/uploads/2019/08/camera_ready.pdf)
 * [Papers from Tsinghua NetMan Lab](https://netman.aiops.org/publications/)
 
