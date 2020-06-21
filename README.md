@@ -64,10 +64,12 @@
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2018/04/peidan.pdf)
-* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.ai/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
+* [HotSpot: Anomaly Localization for Additive KPIs With Multi-Dimensional Attributes](http://netman.aiops.org/wp-content/uploads/2018/03/sunyq_IEEEAccess_HotSpot.pdf)
     * Chinese：[清华AIOps新作:蒙特卡洛树搜索定位多维指标异常](https://mp.weixin.qq.com/s/Kj309bzifIv4j80nZbGVZw)
 * [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://conferences2.sigcomm.org/imc/2015/papers/p211.pdf)
-* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](http://netman.ai/~peidan/ANM2018/8.DependencyDiscovery/LectureCoverage/2018IWQOS_ROCKA.pdf)
+* [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://netman.aiops.org/wp-content/uploads/2018/05/PID5338621.pdf)
+* [Generic and Robust Localization of Multi-Dimensional Root Causes](https://netman.aiops.org/wp-content/uploads/2019/08/camera_ready.pdf)
+* [Papers from Tsinghua NetMan Lab](https://netman.aiops.org/publications/)
 
 ## Dataset
 * [Alibaba/clusterdata](https://github.com/alibaba/clusterdata)
@@ -76,6 +78,7 @@
 * [The Numenta Anomaly Benchmark(NAB)](https://github.com/numenta/NAB)
 * [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 * [港中文loghub数据集](https://github.com/logpai/loghub)
+* [2018 AIOPS挑战赛预赛测试集](http://iops.ai/dataset_detail/?id=7) [2018 AIOPS挑战赛预赛训练集](http://iops.ai/dataset_detail/?id=6)
 
 ## Useful WeChat Official Accounts
 * 腾讯织云（腾讯的）
